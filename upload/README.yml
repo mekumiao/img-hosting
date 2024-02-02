@@ -1,0 +1,31 @@
+author: ''
+cover: ''
+title: Python开发
+description: Python开发
+category: 其他
+sections:
+- title: ssml-editor-演示视频
+  description: ssml-editor-演示视频
+  file: ssml-editor-演示视频.mp4
+  duration: 00:00:00
+  order: 0
+- title: ssml-editor-演示视频1
+  description: ssml-editor-演示视频1
+  file: ssml-editor-演示视频1.mp4
+  duration: 00:00:00
+  order: 1
+- title: ssml-editor-演示视频2
+  description: ssml-editor-演示视频2
+  file: ssml-editor-演示视频2.mp4
+  duration: 00:00:00
+  order: 2
+- title: ssml-editor-演示视频3
+  description: ssml-editor-演示视频3
+  file: ssml-editor-演示视频3.mp4
+  duration: 00:00:00
+  order: 3
+- title: ssml-editor-演示视频4
+  description: ssml-editor-演示视频4
+  file: ssml-editor-演示视频4.mp4
+  duration: 00:00:00
+  order: 4
